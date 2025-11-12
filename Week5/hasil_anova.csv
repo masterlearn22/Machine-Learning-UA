@@ -1,0 +1,6 @@
+feature,f_stat,p_value,classes
+Age,1.544522305138471,0.21598678899314133,"['Intermediate', 'Beginner', 'Advanced']"
+WeeklyKM,694.2546208695474,6.141842307162107e-90,"['Intermediate', 'Beginner', 'Advanced']"
+LongRunKM,402.7209992377036,2.515282639518251e-70,"['Intermediate', 'Beginner', 'Advanced']"
+AvgPace_min_per_km,565.3239106123513,2.4057965527910667e-82,"['Intermediate', 'Beginner', 'Advanced']"
+RestingHR,304.6572716900148,5.178818597821851e-61,"['Intermediate', 'Beginner', 'Advanced']"

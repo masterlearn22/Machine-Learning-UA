@@ -1,0 +1,19 @@
+{
+  "target_col": "Penyakit",
+  "feature_names": [
+    "Kategori",
+    "UMUR_TAHUN",
+    "Jenis_Kelamin",
+    "Demam",
+    "Batuk",
+    "Sesak_Napas",
+    "Nyeri_Kepala",
+    "Lemas",
+    "Mual",
+    "Diare",
+    "Nyeri_Otot",
+    "Sakit_Tenggorokan",
+    "Ruam_Kulit",
+    "Hilang_Penciuman"
+  ]
+}
